@@ -2,9 +2,10 @@
 Sneaksters is a game about using teamwork to steal treasure! Players must take up one of two jobs - the Eyes and the Thieves. The Thieves' objective is to sneak though a labyrinth and collect Gemstones, but they don't have any idea what the layout of the map is. The Eyes, on the other hand, have an overhead view of the whole area, but no direct control over the Thieves' movements. The two groups must communicate in order to escape without getting busted.
 
 
-## Download the Alpha
+## Download the Pre-Alpha
 You can find the latest builds of Sneaksters at https://github.com/Meorge/sneaksters-testing/releases.
-Note: Sneaksters is currently in alpha. There's likely to be a lot of bugs and issues, some of which may be game-breaking (although they should NOT pose any threat to your computer).
+
+Note: Sneaksters is currently in **pre-alpha**. There's likely to be a lot of bugs and issues, some of which may be game-breaking (although they should NOT pose any threat to your computer).
 
 
 ## Report Bugs and Suggestions
@@ -38,6 +39,6 @@ If you can't reach the Settings button due to the screen size, please let us kno
 
 **Will I get anything for playtesting?**
 
-Since this is a public alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
+Since this is a public pre-alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
 
  Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. 
