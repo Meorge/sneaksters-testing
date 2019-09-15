@@ -1,0 +1,83 @@
+{
+    "language" : "en",
+    "notes" : "Text by Meorge",
+    "strings" : {
+        "press_any_button" : "Press Any Button",
+        "made_by" : "Copyright Zenith Point 2019",
+
+        "create_a_room" : "Form a Squad",
+        "join_a_room" : "Join a Squad",
+
+        "settings" : "Settings",
+        "online_settings" : "Online & Connections",
+        "control_settings" : "Controls",
+        "resolution_settings" : "Resolution & Quality",
+        "accessibility_settings" : "Accessibility",
+        "audio_settings" : "Sounds & Audio",
+        "discord_rich_presence" : "Discord Rich Presence",
+        "twitch_stream_integration" : "Twitch Stream Integration",
+        "invert_y_mouselook" : "Invert Y Mouse Look",
+        "resolution" : "Resolution",
+        "resolution_description" : "Adjust the size of the Sneaksters game window.",
+        "full_screen" : "Full Screen",
+        "full_screen_description" : "If not checked, Sneaksters will run inside of a window.",
+        "music_vol" : "Music Volume",
+        "sfx_vol" : "SFX Volume",
+
+        "my_sneak_id" : "My Sneak ID",
+        "name" : "Name",
+        "placeholder_player_name" : "Sneak Guy",
+
+        "enter_room_code" : "Enter the Squad Code!",
+        "room_code_explanation" : "Squad Codes consist of the letters A-Z, capitalized.",
+        "connect" : "Connect",
+        "back_button" : "Back",
+
+        "choose_job" : "Choose a Job!",
+        "computer_desc" : "<color=white>Hack doors and warn the Thieves of dangers as an</color> Eye in the Sky<color=white>!!</color>",
+        "thief_desc" : "Sneak around and use the Eyes' intel to steal Gems as a <color=purple>Thief</color>!",
+        "join_as_computer" : "Join as Eye",
+        "join_as_thief" : "Join as Thief",
+        "room_code" : "Squad    Code",
+        "players_connected" : "Squad Members",
+        "leader" : "Leader",
+        "no_more_space" : "No more space!",
+        "computer_job" : "Eyes in the Sky",
+        "thief_job" : "Thieves on the Ground",
+        "head_out" : "Move Out!",
+        "waiting_on_host" : "Waiting for the Leader...",
+        "choose_mission" : "Choose a Mission",
+        "game_begins_in" : "Moving out in",
+
+        "mission_no" : "Mission {0}",
+
+        "captured_top" : "You've Been",
+        "captured_bottom" : "Captured!",
+
+        "busted" : "Busted!",
+        "busted_squad_lasted" : "The Squad Lasted {0}:{1}",
+
+        "head_for_exit" : "Head for the exit!",
+
+        "walk" : "Walk",
+        "sprint" : "Sprint",
+        "look_around" : "Look Around",
+        "space_key" : "Space",
+        "to_drop_gem" : "to Drop Gemstone",
+        "move_faster_without_gem" : "(You'll move faster if you're not carrying anything.)",
+
+        "connecting_to_server" : "Connecting to the server...",
+        "creating_room" : "Creating a Squad...",
+        "joining_room" : "Joining Squad...",
+        "disconnect" : "Disconnect",
+
+        "return_to_main_menu" : "Return to Main Menu",
+
+        "error_joining_room" : "Error joining room {0} - {1}",
+        "error_creating_room" : "Error creating room {0} - {1}",
+
+        "confirm_disconnect" : "Are you sure you want to disconnect from this squad?",
+        "yes" : "Yeah!",
+        "no" : "Nope."
+    }
+}

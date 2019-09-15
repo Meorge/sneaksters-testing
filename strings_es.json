@@ -1,0 +1,83 @@
+{
+    "language" : "es",
+    "notes" : "Translation by patataofcourse and Meorge",
+    "strings" : {
+        "press_any_button" : "Oprime cualquier botón",
+        "made_by" : "Copyright Zenith Point 2019",
+
+        "create_a_room" : "Hacer un Equipo",
+        "join_a_room" : "Unirse a un Equipo",
+
+        "settings" : "Opciones",
+        "online_settings" : "Internet y cuentas",
+        "control_settings" : "Controles",
+        "resolution_settings" : "Resolución",
+        "accessibility_settings" : "Accesibilidad",
+        "audio_settings" : "Música y audio", 
+        "discord_rich_presence" : "Discord Rich Presence",
+        "twitch_stream_integration" : "Integración en Twitch",
+        "invert_y_mouselook" : "Invertir el Eje Y del Ratón",
+        "resolution" : "Resolución",
+        "resolution_description" : "Ajusta el tamaño de la ventana de Sneaksters.",
+        "full_screen" : "Pantalla Completa",
+        "full_screen_description" : "Si no está marcado, Sneaksters aparecerá en una ventana.",
+        "music_vol" : "Volumen de la Música",
+        "sfx_vol" : "Volumen de los Efectos de Sonido",
+
+        "my_sneak_id" : "Mi Sneak ID",
+        "name" : "Nombre",
+        "placeholder_player_name" : "El Ladroncito",
+
+        "enter_room_code" : "¡Escribe el Código de Equipo!",
+        "room_code_explanation" : "Los Códigos de Equipo consisten de letras de la A a la Z, en mayúsculas.",
+        "connect" : "Conectarse",
+        "back_button" : "Volver",
+
+        "choose_job" : "¡Elige un Trabajo!",
+        "computer_desc" : "<color=white>¡Hackea puertas y avisa a los Ladroncitos ante el peligro siendo un </color>Ojo en el Cielo<color=white>!</color>",
+        "thief_desc" : "¡Muévete sigilósamente y usa la información de los Ojos en el Cielo para robar gemas siendo un <color=purple>Ladroncito</color>!",
+        "join_as_computer" : "Ser Ojo en el Cielo",
+        "join_as_thief" : "Ser Ladroncito",
+        "room_code" : "Código de    Equipo",
+        "players_connected" : "Miembros del Equipo",
+        "leader" : "Líder",
+        "no_more_space" : "¡No hay más espacio!",
+        "computer_job" : "Los Ojos en el Cielo",
+        "thief_job" : "Los Ladroncitos",
+        "head_out" : "¡Vámonos!",
+        "waiting_on_host" : "Esperando al Líder...",
+        "choose_mission" : "Escoge una Misión",
+        "game_begins_in" : "Empezamos en",
+
+        "mission_no" : "Misión {0}",
+
+        "captured_top" : "Eres",
+        "captured_bottom" : "¡Capturado!",
+        
+        "busted" : "UNTRANSLATED Busted!",
+        "busted_squad_lasted" : "UNTRANSLATED The Squad Lasted {0}:{1}",
+
+        "head_for_exit" : "UNTRANSLATED Head for the exit!",
+
+        "walk" : "Caminar",
+        "sprint" : "Correr",
+        "look_around" : "Mirar alrededor",
+        "space_key" : "Espacio",
+        "to_drop_gem" : "para soltar la Gema",
+        "move_faster_without_gem" : "(Puedes correr más rapido si no tienes una Gema.)",
+
+        "connecting_to_server" : "Conectando al servidor...",
+        "creating_room" : "Creando Equipo...",
+        "joining_room" : "UNTRANSLATED Joining room...",
+        "disconnect" : "Disconectarse",
+
+        "return_to_main_menu" : "Volver al Menú Principal",
+
+        "error_joining_room" : "Había error {0} - {1}",
+        "error_creating_room" : "Había error {0} - {1}",
+
+        "confirm_disconnect" : "¿Estás seguro de que quieres salir este equipo?",
+        "yes" : "¡Sí!",
+        "no" : "No."
+    }
+}
