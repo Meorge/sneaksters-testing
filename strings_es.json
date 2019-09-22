@@ -51,13 +51,13 @@
 
         "mission_no" : "Misión {0}",
 
-        "captured_top" : "Eres",
-        "captured_bottom" : "¡Capturado!",
+        "captured_top" : "¡Te han",
+        "captured_bottom" : "capturado!",
         
-        "busted" : "UNTRANSLATED Busted!",
-        "busted_squad_lasted" : "UNTRANSLATED The Squad Lasted {0}:{1}",
+        "busted" : "¡Pillados!",
+        "busted_squad_lasted" : "El Equipo duró {0}:{1}",
 
-        "head_for_exit" : "UNTRANSLATED Head for the exit!",
+        "head_for_exit" : "¡Id hacia la salida!",
 
         "walk" : "Caminar",
         "sprint" : "Correr",
@@ -68,15 +68,15 @@
 
         "connecting_to_server" : "Conectando al servidor...",
         "creating_room" : "Creando Equipo...",
-        "joining_room" : "UNTRANSLATED Joining room...",
+        "joining_room" : "Uniéndose al Equipo...",
         "disconnect" : "Disconectarse",
 
         "return_to_main_menu" : "Volver al Menú Principal",
 
-        "error_joining_room" : "Había error {0} - {1}",
-        "error_creating_room" : "Había error {0} - {1}",
+        "error_joining_room" : "Error {0} - {1} al unirse al equipo",
+        "error_creating_room" : "Error {0} - {1} al crear un equipo ",
 
-        "confirm_disconnect" : "¿Estás seguro de que quieres salir este equipo?",
+        "confirm_disconnect" : "¿Estás seguro de que quieres salir de este equipo?",
         "yes" : "¡Sí!",
         "no" : "No."
     }
