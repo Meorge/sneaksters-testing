@@ -28,17 +28,16 @@ We'll try to look at every suggestion that comes in. It's possible that a sugges
 ## FAQs
 **Ahhh! The music is so loud!**
 
-Sorry about that! You can turn the music and SFX volumes down in Settings -> Audio, from the main menu. Hopefully, in the future the volume will default to a lower level.
+Sorry about that! You can turn the music and SFX volumes down in Settings -> Audio, from the main menu.
 
 
 **The screen is too big for my monitor!**
 
-You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. We're hoping to add in "smart resolution" in the future, where the game will fit itself to your screen.
-If you can't reach the Settings button due to the screen size, please let us know! That'll give us even more motivation to fix it.
+You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. The game _should_ resize itself upon first bootup in order to fit your monitor screen, so please let us know if it does not. 
 
 
 **Will I get anything for playtesting?**
 
 Since this is a public pre-alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
 
- Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. 
+ Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. There will also likely be a Playtesters section of the game's credits.
