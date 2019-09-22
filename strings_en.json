@@ -66,6 +66,8 @@
         "to_drop_gem" : "to Drop Gemstone",
         "move_faster_without_gem" : "(You'll move faster if you're not carrying anything.)",
 
+        "space" : "Space",
+        
         "connecting_to_server" : "Connecting to the server...",
         "creating_room" : "Creating a Squad...",
         "joining_room" : "Joining Squad...",
@@ -79,5 +81,11 @@
         "confirm_disconnect" : "Are you sure you want to disconnect from this squad?",
         "yes" : "Yeah!",
         "no" : "Nope."
+        
+        "pausish" : "Menu",
+        "pausish_desc" : "(Gameplay has not stopped.)",
+
+        "player_joined" : "joined!",
+        "player_left" : "left!"
     }
 }
