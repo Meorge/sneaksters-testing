@@ -66,6 +66,8 @@
         "to_drop_gem" : "para soltar la Gema",
         "move_faster_without_gem" : "(Puedes correr más rapido si no tienes una Gema.)",
 
+        "space" : "Espacio",
+        
         "connecting_to_server" : "Conectando al servidor...",
         "creating_room" : "Creando Equipo...",
         "joining_room" : "Uniéndose al Equipo...",
@@ -78,6 +80,12 @@
 
         "confirm_disconnect" : "¿Estás seguro de que quieres salir de este equipo?",
         "yes" : "¡Sí!",
-        "no" : "No."
+        "no" : "No.",
+        
+        "pausish" : "Menú",
+        "pausish_desc" : "(El juego no ha parado.)",
+
+        "player_joined" : "juntó",
+        "player_left" : "salió"
     }
 }
