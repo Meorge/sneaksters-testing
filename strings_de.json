@@ -17,7 +17,7 @@
         "discord_rich_presence" : "Discord Rich Presence",
         "twitch_stream_integration" : "Twitch Stream Integration",
         "invert_y_mouselook" : "Y Maus-Wirkung umkehren",
-        "resolution" : Auflösung",
+        "resolution" : "Auflösung",
         "resolution_description" : "Größe des Sneaksters Spiel-Fenster ändern.",
         "full_screen" : "Vollbild",
         "full_screen_description" : "Wenn deaktiviert wird Sneaksters in einem Fenster laufen.",
