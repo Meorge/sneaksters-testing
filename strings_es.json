@@ -71,7 +71,7 @@
         "connecting_to_server" : "Conectando al servidor...",
         "creating_room" : "Creando Equipo...",
         "joining_room" : "Uniéndose al Equipo...",
-        "disconnect" : "Disconectarse",
+        "disconnect" : "Salir",
 
         "return_to_main_menu" : "Volver al Menú Principal",
 
@@ -85,7 +85,7 @@
         "pausish" : "Menú",
         "pausish_desc" : "(El juego no ha parado.)",
 
-        "player_joined" : "juntó",
+        "player_joined" : "se unió",
         "player_left" : "salió"
     }
 }
