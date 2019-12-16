@@ -4,9 +4,26 @@
     "strings" : {
         "press_any_button" : "Press Any Button",
         "made_by" : "Copyright Zenith Point 2019",
+        "photon" : "Powered by Photon PUN by Exit Games",
 
         "create_a_room" : "Form a Squad",
         "join_a_room" : "Join a Squad",
+
+        "play_online" : "Sneak Online",
+        "play_online_desc" : "Embark on missions with other players.",
+        "play_offline" : "Sneak Solo",
+        "play_offline_desc" : "Take on missions by yourself.",
+
+        "gem_heist" : "Gem Heist",
+        "gem_heist_desc" : "Work together to grab all the Gemstones and escape!",
+        "hide_and_seek" : "Hide and Seek",
+        "hide_and_seek_desc" : "Avoid being caught by the Chaser!",
+
+        "create_a_room_desc" : "Form an online squad for other players to join.",
+        "join_a_room_desc" : "Join an online squad using a four-letter code.",
+        "customize_desc" : "Buy and swap hats to modify your thieving skills.",
+        "settings_desc" : "Modify game settings.",
+        
 
         "settings" : "Settings",
         "online_settings" : "Online & Connections",
@@ -14,17 +31,37 @@
         "resolution_settings" : "Resolution & Quality",
         "accessibility_settings" : "Accessibility",
         "audio_settings" : "Sounds & Audio",
+        "language_settings" : "Language",
+        "credit_settings" : "Credits",
         "discord_rich_presence" : "Discord Rich Presence",
+        "discord_rich_presence_description" : "If enabled, users on Discord will be able to see information about your Sneaksters game session.",
+
         "twitch_stream_integration" : "Twitch Stream Integration",
+        "online_settings_server" : "Server Region",
+        "online_settings_server_description" : "Note that you must be connected to the same server as another player to play with them.",
+
+        "online_settings_hidecode" : "Hide Squad Code",
+        "online_settings_hidecode_description" : "Hide the Squad Code by default. Useful for when you don't want a lot of people to join a Squad.",
+        "customize_controls" : "Customize Controls",
         "invert_y_mouselook" : "Invert Y Mouse Look",
+        "invert_y_mouselook_description" : "When enabled, moving your mouse up causes your view to look down.",
+        "qualitylevel" : "Quality Level",
+        "qualitylevel_description" : "A higher quality level will look better, but be more demanding to your computer.",
         "resolution" : "Resolution",
         "resolution_description" : "Adjust the size of the Sneaksters game window.",
         "full_screen" : "Full Screen",
         "full_screen_description" : "If not checked, Sneaksters will run inside of a window.",
         "music_vol" : "Music Volume",
+        "music_vol_description" : "Set the volume for game music.",
         "sfx_vol" : "SFX Volume",
+        "sfx_vol_description" : "Set the volume for in-game sound effects.",
 
+        "customize" : "Customize",
         "my_sneak_id" : "My Sneak ID",
+        "playerhat" : "Hat",
+        "hat_select" : "My Hats",
+        "playercolor" : "Color",
+        "thiefmart" : "Blacmarket",
         "name" : "Name",
         "placeholder_player_name" : "Sneak Guy",
 
@@ -32,6 +69,7 @@
         "room_code_explanation" : "Squad Codes consist of the letters A-Z, capitalized.",
         "connect" : "Connect",
         "back_button" : "Back",
+        "quit_button" : "Quit",
 
         "choose_job" : "Choose a Job!",
         "computer_desc" : "<color=white>Hack doors and warn the Thieves of dangers as an</color> Eye in the Sky<color=white>!!</color>",
@@ -41,6 +79,8 @@
         "room_code" : "Squad    Code",
         "players_connected" : "Squad Members",
         "leader" : "Leader",
+        "waiting" : "Waiting...",
+        "ready" : "Ready!",
         "no_more_space" : "No more space!",
         "computer_job" : "Eyes in the Sky",
         "thief_job" : "Thieves on the Ground",
@@ -75,17 +115,33 @@
 
         "return_to_main_menu" : "Return to Main Menu",
 
+        "error_connecting" : "The server could not be reached. Please check your Internet connection and try again.",
+
         "error_joining_room" : "Error joining room {0} - {1}",
         "error_creating_room" : "Error creating room {0} - {1}",
 
         "confirm_disconnect" : "Are you sure you want to disconnect from this squad?",
         "yes" : "Yeah!",
-        "no" : "Nope."
+        "no" : "Nope.",
         
         "pausish" : "Menu",
         "pausish_desc" : "(Gameplay has not stopped.)",
 
         "player_joined" : "joined!",
-        "player_left" : "left!"
+        "player_left" : "left!",
+
+
+        "project_lead" : "Project Lead",
+        "programming" : "Programming",
+        "tool_programming" : "Tools Programming",
+        "3d_graphics" : "3D Graphics",
+        "2d_graphics" : "2D Graphics",
+        "user_interface" : "UI Design & Programming",
+        "music_sfx" : "Music and Audio",
+        "int_playtesting" : "Internal Playtesting",
+        "ext_playtesting" : "External Playtesting",
+        "spanish_localization" : "Spanish Localization",
+		"german_localization": "German Localization",
+        "special_thanks" : "Special Thanks"
     }
 }
