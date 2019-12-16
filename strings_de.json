@@ -1,0 +1,91 @@
+{
+    "language" : "de",
+    "notes" : "Text by Meorge",
+    "strings" : {
+        "press_any_button" : "Drücke eine beliebige Taste",
+        "made_by" : "Copyright Zenith Point 2019",
+
+        "create_a_room" : "Gründe ein Team",
+        "join_a_room" : "Trete einem Team bei",
+
+        "settings" : "Einstellungen",
+        "online_settings" : "Online & Verbindungen",
+        "control_settings" : "Steuerung",
+        "resolution_settings" : "Auflösung & Qualität",
+        "accessibility_settings" : "Bedienbarkeit",
+        "audio_settings" : "Sounds & Audio",
+        "discord_rich_presence" : "Discord Rich Presence",
+        "twitch_stream_integration" : "Twitch Stream Integration",
+        "invert_y_mouselook" : "Y Maus-Wirkung umkehren",
+        "resolution" : "Auflösung",
+        "resolution_description" : "Größe des Sneaksters Spiel-Fenster ändern.",
+        "full_screen" : "Vollbild",
+        "full_screen_description" : "Wenn deaktiviert wird Sneaksters in einem Fenster laufen.",
+        "music_vol" : "Musik Lautstärke",
+        "sfx_vol" : "SFX Lautstärke",
+
+        "my_sneak_id" : "Meine Sneak ID",
+        "name" : "Name",
+        "placeholder_player_name" : "Spion",
+
+        "enter_room_code" : "Gib den Gruppencode ein!",
+        "room_code_explanation" : "Gruppencodes bestehen aus den GROßBUCHSTABEN A-Z.",
+        "connect" : "Verbinden",
+        "back_button" : "Zurück",
+
+        "choose_job" : "Wähle einen Job!",
+        "computer_desc" : "<color=white>Hacke Türen und warne die Diebe als</color> Auge am Himmel<color=white>!!</color>",
+        "thief_desc" : "Schau dich um und verwende die Hilfen der Augen um Edelsteine zu stehelen als <color=purple>Dieb</color>!",
+        "join_as_computer" : "Als Auge beitretetn",
+        "join_as_thief" : "Als Dieb beitreten",
+        "room_code" : "Gruppen-    Code",
+        "players_connected" : "Gruppenmitgleider",
+        "leader" : "Leiter",
+        "no_more_space" : "Kein Platz mehr!",
+        "computer_job" : "Auge am Himmel",
+        "thief_job" : "Dieb auf der Erde",
+        "head_out" : "Gehe raus!",
+        "waiting_on_host" : "Warte auf den Leiter...",
+        "choose_mission" : "Wähle eine Mission",
+        "game_begins_in" : "Es geht los in",
+
+        "mission_no" : "Mission {0}",
+
+        "captured_top" : "Du wurdest",
+        "captured_bottom" : "Gefangen!",
+
+        "busted" : "Busted!",
+        "busted_squad_lasted" : "Die Gruppe gab es {0}:{1} lang",
+
+        "head_for_exit" : "Geh zum Ausgang!",
+
+        "walk" : "Laufen",
+        "sprint" : "Sprint",
+        "look_around" : "Umschauen",
+        "space_key" : "Leertaste",
+        "to_drop_gem" : "um einen Edelstein abzulegen",
+        "move_faster_without_gem" : "(Du bewest dich schneller, wenn du nichts trägst.)",
+
+        "space" : "Leertaste",
+        
+        "connecting_to_server" : "Mit dem Server verbinden...",
+        "creating_room" : "Gruppe wird erstellt...",
+        "joining_room" : "Gruppe wird beigetreten...",
+        "disconnect" : "Verbindung trennen.",
+
+        "return_to_main_menu" : "Zurück zum Hauptmenü",
+
+        "error_joining_room" : "Fehler beim Betreten des Raums {0} - {1}",
+        "error_creating_room" : "Fehler beim Erstellen des Raums {0} - {1}",
+
+        "confirm_disconnect" : "Möchtest du dich wirklich die Verbindung zu dieser Gruppe trennen?",
+        "yes" : "Ja!",
+        "no" : "Nö.",
+        
+        "pausish" : "Menü",
+        "pausish_desc" : "(Spiel wurde nicht gestoppt.)",
+
+        "player_joined" : "ist beigetreten!",
+        "player_left" : "hat das Spiel verlassen!"
+    }
+}
