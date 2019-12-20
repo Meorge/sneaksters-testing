@@ -25,13 +25,29 @@ In order to help us diagnose the problem, please include:
 ### Note regarding suggestions
 We'll try to look at every suggestion that comes in. It's possible that a suggestion may go against the spirit of the game as we see it or be too much work to implement, and as such we won't include it. Alternatively, we may already have plans to implement something before you suggest it! As such, there's no guarantee that suggestions will be included or attributed to you.
 
+
+## Translating Sneaksters
+So far, _Sneaksters_ has been translated into the following languages, in addition to the original English version:
+
+- Spanish by patataofcourse and Malcolm Anderson
+- German by Aaron Dewes
+
+### Contribute translations
+Are you fluent in a language other than English? If so, we'd appreciate your help with translating _Sneaksters_! To get started, fork this repository using the "Fork" button in the top right corner, create a copy of `strings_en.json` with the [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language, and start translating the file! Don't forget to credit yourself in the `"notes"` section of the JSON file.
+
+Once you're done translating, submit a pull request and it should be added to the game shortly, with your name in the credits.
+
 ## FAQs
+**Gah! There are so many bugs!**
+
+That's why it's a pre-alpha and not a finished game! The purpose of the pre-alpha is to crowd-source bug testing so that we can get the game running nicely as soon as possible. If you find any bugs, please report them as described above.
+
 **Ahhh! The music is so loud!**
 
-Sorry about that! You can turn the music and SFX volumes down in Settings -> Audio, from the main menu.
+Sorry about that! You can turn the music and SFX volumes down in Settings -> Sounds & Audio, from the main menu.
 
 
-**The screen is too big for my monitor!**
+**The game's window is too big for my monitor!**
 
 You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. The game _should_ resize itself upon first bootup in order to fit your monitor screen, so please let us know if it does not. 
 
@@ -40,4 +56,4 @@ You can adjust the screen resolution in Settings -> Resolution & Quality, from t
 
 Since this is a public pre-alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
 
- Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. There will also likely be a Playtesters section of the game's credits.
+ Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. By participating in the pre-alpha, your name will also be included in the credits under "External Playtesting". (If you would prefer to have your name _not_ be in the credits, just let us know.)
