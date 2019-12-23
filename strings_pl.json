@@ -1,0 +1,148 @@
+{
+    "language" : "pl",
+    "notes" : "Translation by NokNokShell",
+  "strings": {
+    "press_any_button": "Wciœnij dowolny przycisk",
+    "made_by": "Copyright Zenith Point 2019",
+    "photon": "Powered by Photon PUN by Exit Games",
+
+    "create_a_room": "Utwórz dru¿ynê",
+    "join_a_room": "Do³¹cz do dru¿yny",
+
+    "play_online": "Graj online",
+    "play_online_desc": "Wype³niaj misje z innymi graczami.",
+    "play_offline": "Graj sam",
+    "play_offline_desc": "Wype³niaj misje samemu.",
+
+    "gem_heist": "Polowanie na Klejnoty",
+    "gem_heist_desc": "Pracujcie razem ¿eby skraœæ wszystkie Klejnoty i uciec!",
+    "hide_and_seek": "Gra w chowanego",
+    "hide_and_seek_desc": "Nie dajcie siê z³apaæ przez Poœcigowego!",
+
+    "create_a_room_desc": "Utwórz dru¿ynê online, aby graæ z innymi graczami.",
+    "join_a_room_desc": "Do³¹cz do dru¿yny online, u¿ywaj¹c czteroliterowego kodu.",
+    "customize_desc": "Kupuj i zmieniaj kapelusze, z ka¿dym kapeluszem twój skill w kradniêciu ulegnie zmianom.",
+    "settings_desc": "Zmieñ ustawienia gry.",
+
+
+    "settings": "Ustawienia",
+    "online_settings": "Internet i po³¹czenia",
+    "control_settings": "Sterowanie",
+    "resolution_settings": "Grafika",
+    "accessibility_settings": "U³atwienia dostêpu",
+    "audio_settings": "Muzyka i dŸwiêk",
+    "language_settings": "Jêzyk",
+    "credit_settings": "Twórcy",
+    "discord_rich_presence": "Discord Rich Presence",
+    "discord_rich_presence_description": "Je¿eli jest za³¹czone, u¿ytkownicy Discorda bêd¹ widzieli stan twojej rozgrywki.",
+
+    "twitch_stream_integration": "Integracja z transmisjami Twitch",
+    "online_settings_server": "Region serwera",
+    "online_settings_server_description": "Uwaga: musisz byæ na takim samym serwerze jak gracz, z którym chcesz zagraæ.",
+
+    "online_settings_hidecode": "Ukryj kod dru¿yny",
+    "online_settings_hidecode_description": "Domyœlnie ukrywaj kod dru¿yny. Pomocne, je¿eli nie chcesz, aby ludzie do³¹czali do twojej dru¿yny.",
+    "customize_controls": "Ustawienia sterowania",
+    "invert_y_mouselook": "Odwróæ pionowe sterowanie mysz¹.",
+    "invert_y_mouselook_description": " Po za³¹czeniu poruszenie mysz¹ w górê sprawi, ¿e widok przesunie siê w dó³.",
+    "qualitylevel": "Jakoœæ grafiki",
+    "qualitylevel_description": "Wy¿szy poziom poprawi jakoœæ grafiki, lecz gra bêdzie zu¿ywaæ wiêcej zasobów komputera.",
+    "resolution": "Rozdzielczoœæ",
+    "resolution_description": "Dopasuj rozmiar okna gry.",
+    "full_screen": "Pe³ny ekran",
+    "full_screen_description": "Je¿eli opcja bêdzie wy³¹czona, gra bêdzie dzia³aæ w oknie.",
+    "music_vol": "G³oœnoœæ muzyki",
+    "music_vol_description": "Dopasuj g³oœnoœæ muzyki w grze.",
+    "sfx_vol": "G³oœnoœæ dŸwiêku.",
+    "sfx_vol_description": "Dopasuj g³oœnoœæ efektów dŸwiêkowych w grze.",
+
+    "customize": "Dostosuj",
+    "my_sneak_id": "Mój Sneak ID",
+    "playerhat": "Kapelusz",
+    "hat_select": "Moje kapelusze",
+    "playercolor": "Kolor",
+    "thiefmart": "Czarny Rynek",
+    "name": "Nazwa",
+    "placeholder_player_name": "Skryty Typ",
+
+    "enter_room_code": "Wpisz kod dru¿yny!",
+    "room_code_explanation": "Kody dru¿yn sk³adaj¹ siê z czterech wielkich liter od A do Z.",
+    "connect": "Po³¹cz",
+    "back_button": "Wstecz",
+    "quit_button": "WyjdŸ",
+
+    "choose_job": "Wybierz klasê postaci",
+    "computer_desc": "<color=white>Zdalnie otwieraj drzwi i informuj Z³odziei o zagro¿eniach jako</color> Podniebne Oko<color=white>!</color>",
+    "thief_desc": "Skradaj siê i korzystaj z informacji od Oczu aby kraœæ Klejnoty jako <color=purple>Z³odziej</color>!",
+    "join_as_computer": "Do³¹cz jako Oko",
+    "join_as_thief": "Do³¹cz jako Z³odziej",
+    "room_code": "Kod    Dru¿yny",
+    "players_connected": "Cz³onkowie dru¿yny",
+    "leader": "Przywódca",
+    "waiting": "Czekaj...",
+    "ready": "Gotów!",
+    "no_more_space": "Brak miejsca!",
+    "computer_job": "Podniebne Oczy",
+    "thief_job": "Uziemieni Z³odzieje",
+    "head_out": "Do akcji!",
+    "waiting_on_host": "Oczekiwanie na Przywódcê...",
+    "choose_mission": "Wybierz misjê",
+    "game_begins_in": "Gra rozpoczyna siê za",
+
+    "mission_no": "Misja {0}",
+
+    "captured_top": "Zosta³eœ",
+    "captured_bottom": "Z³apany!",
+
+    "busted": "Koniec!",
+    "busted_squad_lasted": "Dru¿yna by³a w akcji {0} minut i {1} sekund.",
+
+    "head_for_exit": "Do wyjœcia!",
+
+    "walk": "IdŸ",
+    "sprint": "Biegnij",
+    "look_around": "Rozgl¹daj siê",
+    "space_key": "Spacja",
+    "to_drop_gem": "Upuœæ Kryszta³",
+    "move_faster_without_gem": "(Nie trzymaj¹c niczego, bêdziesz porusza³ siê szybciej.)",
+
+    "space": "Spacja",
+
+    "connecting_to_server": "£¹czenie z serwerem...",
+    "creating_room": "Tworzenie dru¿yny...",
+    "joining_room": "Do³¹czanie do druzyny...",
+    "disconnect": "Roz³¹cz",
+
+    "return_to_main_menu": "Wróæ do Menu G³ównego",
+
+    "error_connecting": "Nie mo¿na by³o osi¹gn¹æ serwera. SprawdŸ swoje po³¹czenie internetowe i spróbuj ponownie." ,
+
+    "error_joining_room": "B³¹d do³¹czania do pokoju {0} - {1}",
+    "error_creating_room": "B³¹d tworzenia pokoju {0} - {1}",
+
+    "confirm_disconnect": "Na pewno chcesz opuœciæ t¹ dru¿ynê?",
+    "yes": "Tak!",
+    "no": "Nie.",
+
+    "pausish": "Menu",
+    "pausish_desc": "(Rozgrywka siê nie zatrzyma³a.)",
+
+    "player_joined": "do³¹czy³!",
+    "player_left": "wyszed³!",
+
+
+    "project_lead": "Przewodnictwo nad projektem",
+    "programming": "Programowanie",
+    "tool_programming": "Programowanie narzêdzi",
+    "3d_graphics": "Grafika 3D",
+    "2d_graphics": "Grafika 2D",
+    "user_interface": "Projekt i programowanie interfejsu",
+    "music_sfx": "Muzyka i dŸwiêki",
+    "int_playtesting": "Wewnêtrzne testy",
+    "ext_playtesting": "Zewnêtrzne testy",
+    "spanish_localization": "T³umaczenie hiszpañskie",
+    "german_localization": "T³umaczenie niemieckie",
+    //"polish_localization": "T³umaczenie polskie",
+    "special_thanks": "Specjalne podziêkowania"
+  }
+}
