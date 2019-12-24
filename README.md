@@ -31,6 +31,7 @@ So far, _Sneaksters_ has been translated into the following languages, in additi
 
 - Spanish by patataofcourse and Malcolm Anderson
 - German by Aaron Dewes
+- Polish by NokNokShell
 
 ### Contribute translations
 Are you fluent in a language other than English? If so, we'd appreciate your help with translating _Sneaksters_! To get started, fork this repository using the "Fork" button in the top right corner, create a copy of `strings_en.json` with the [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language, and start translating the file! Don't forget to credit yourself in the `"notes"` section of the JSON file.
