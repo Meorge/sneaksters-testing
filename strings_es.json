@@ -116,17 +116,9 @@
 		"ext_playtesting": "Pruebas externas",
 		"spanish_localization": "Localización a español",
 		"german_localization": "Localización a alemán",
-		"french_localization": "Localización a francia",
-		"special_thanks": "Agradecimientos especiales",
-		"verifying": "**UNTRANSLATED** - Original: 'Verifying...'",
-		"build_expired": "**UNTRANSLATED** - Original: 'This build of Sneaksters expired {0} days ago.'",
-		"toggle": "**UNTRANSLATED** - Original: 'Toggle'",
-		"confirm_ready": "**UNTRANSLATED** - Original: 'I'm Ready!'",
-		"confirm_ready_header": "**UNTRANSLATED** - Original: 'We've Got a Mission!'",
-		"thieves_remaining": "**UNTRANSLATED** - Original: 'Thieves\n      Remaining'",
-		"gemstones_collected": "**UNTRANSLATED** - Original: 'Gemstones\n      Collected'",
-		"resume": "**UNTRANSLATED** - Original: 'Resume'",
-		"leave_mission": "**UNTRANSLATED** - Original: 'Leave Mission'",
-		"polish_localization": "**UNTRANSLATED** - Original: 'Polish Localization'"
+        "polish_localization" : "Localización a polaca",
+        "french_localization" : "Localización a francesa",
+        "korean_localization" : "Localización a coreana",
+		"special_thanks": "Agradecimientos especiales"
 	}
 }
