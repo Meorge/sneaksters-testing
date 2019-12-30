@@ -1,0 +1,157 @@
+{
+    "language" : "fr",
+    "notes" : "Translated by RedStoneMatt / Traduit par RedStoneMatt",
+    "strings" : {
+        "verifying" : "Vérification...",
+        "build_expired" : "Cette version de Sneaksters est obsolète depuis {0} jours.",
+        "press_any_button" : "Appuyez sur un Boutton",
+        "made_by" : "Copyright Zenith Point 2019",
+        "photon" : "Powered by Photon PUN by Exit Games",
+
+        "create_a_room" : "Former une Brigade",
+        "join_a_room" : "Rejoindre une Brigade",
+
+        "play_online" : "Sneak Online",
+        "play_online_desc" : "Embarquez en mission avec d'autres joueurs.",
+        "play_offline" : "Sneak Solo",
+        "play_offline_desc" : "Effectuez des missions par vous-même.",
+
+        "gem_heist" : "Braquage de Gemmes",
+        "gem_heist_desc" : "Faîtes équipe pour récupérer chaque gemme et vous échapper!",
+        "hide_and_seek" : "Cache-Cache",
+        "hide_and_seek_desc" : "Cachez-vous et ne vous faîtes pas attraper par le Chasseur!",
+
+        "create_a_room_desc" : "Formez une Brigade en ligne pour que d'autres joueurs la rejoignent.",
+        "join_a_room_desc" : "Rejoignez une Brigade en ligne avec un code à 4 lettres.",
+        "customize_desc" : "Achetez et changez votre chapeau pour modifier vos compétences de voleur.",
+        "settings_desc" : "Modifier les paramètres du jeu.",
+        
+
+        "settings" : "Paramètres",
+        "online_settings" : "Connections En-Ligne",
+        "control_settings" : "Contrôles",
+        "resolution_settings" : "Résolution & Qualité",
+        "accessibility_settings" : "Accessibilité",
+        "audio_settings" : "Sons & Audio",
+        "language_settings" : "Langue",
+        "credit_settings" : "Crédits",
+        "discord_rich_presence" : "\"Rich Presence\" de Discord",
+        "discord_rich_presence_description" : "Si activé, les utilisateurs sur Discord vont pouvoir voir des informations sur votre partie de Sneaksters.",
+
+        "twitch_stream_integration" : "Intégration de Stream Twitch",
+        "online_settings_server" : "Région du Serveur",
+        "online_settings_server_description" : "Notez que vous devez être connecté au même serveur que quelqu'un pour jouer avec lui.",
+
+        "online_settings_hidecode" : "Cacher de Code-Brigade",
+        "online_settings_hidecode_description" : "Désactivé par défaut. Utile si vous ne voulez pas que des tonnes de gens rejoignent votre Brigade.",
+        "customize_controls" : "Customizer les Contrôles",
+        "invert_y_mouselook" : "Inverser la vue par souris en vertical",
+        "invert_y_mouselook_description" : "Si activé, bouger votre souris vers le haut fera baisser votre vue vers le bas.",
+        "qualitylevel" : "Niveau de Qualité",
+        "qualitylevel_description" : "Un niveau de qualité plus haut sera plus beau mais consommera plus de ressources de votre ordinateur.",
+        "resolution" : "Résolution",
+        "resolution_description" : "Ajuster la taille de la fenêtre de Sneaksters.",
+        "full_screen" : "Plein Écran",
+        "full_screen_description" : "Si désactivé, Sneaksters va fonctionner dans une fenêtre.",
+        "music_vol" : "Volume de la Musique",
+        "music_vol_description" : "Défini le volume de la musique du jeu.",
+        "sfx_vol" : "Volume des Bruitages",
+        "sfx_vol_description" : "Défini le volume des bruitages.",
+
+        "customize" : "Customizer",
+        "my_sneak_id" : "Mon Sneak-ID",
+        "playerhat" : "Chapeau",
+        "hat_select" : "Mes Chapeaux",
+        "playercolor" : "Couleur",
+        "thiefmart" : "Marché Noir",
+        "name" : "Nom",
+        "placeholder_player_name" : "Voleur",
+
+        "enter_room_code" : "Entrer le Code-Brigade!",
+        "room_code_explanation" : "Un Code-Brigade consiste en lettres majuscules de A à Z.",
+        "connect" : "Se connecter",
+        "back_button" : "Retour",
+        "quit_button" : "Quitter",
+
+        "choose_job" : "Choisissez un Boulot!",
+        "computer_desc" : "<color=white>Piratez des portes et avertissez les Voleurs des dangers comme un</color> Oeil dans les cieux<color=white>!!</color>",
+        "thief_desc" : "Faufilez-vous et utilisez les infos des Yeux pour voler des Gemmes en tant que <color=purple>Voleur</color>!",
+        "join_as_computer" : "Oeil",
+        "join_as_thief" : "Voleur",
+        "toggle" : "Changer",
+        "room_code" : "Code-Brigade",
+        "players_connected" : "Membres de la Brigade",
+        "leader" : "Chef",
+        "waiting" : "En attente...",
+        "ready" : "Prêt!",
+        "no_more_space" : "Plus d'espace!",
+        "computer_job" : "Oeil dans les cieux",
+        "thief_job" : "Voleur sur le sol",
+        "head_out" : "Partir!",
+        "confirm_ready" : "Je suis prêt!",
+        "confirm_ready_header" : "On a une Mission!",
+        "waiting_on_host" : "En attente du Chef...",
+        "choose_mission" : "Choisissez une Mission",
+        "game_begins_in" : "On y va dans",
+
+        "mission_no" : "Mission {0}",
+
+        "thieves_remaining" : "Voleurs\u000A\u0020\u0020\u0020\u0020\u0020\u0020Restants",
+        "gemstones_collected" : "Gemmes\u000A\u0020\u0020\u0020\u0020\u0020\u0020Collectés",
+
+        "captured_top" : "Vous avez été",
+        "captured_bottom" : "Capturé!",
+
+        "busted" : "Échoué!",
+        "busted_squad_lasted" : "La Brigade à survécu {0}:{1}",
+
+        "head_for_exit" : "Dirigez-vous vers la sortie!",
+
+        "walk" : "Marcher",
+        "sprint" : "Courir",
+        "look_around" : "Regarder autour de vous",
+        "space_key" : "Espace",
+        "to_drop_gem" : "jeter une Gemme",
+        "move_faster_without_gem" : "(Vous bougerez plus vite si vous ne portez rien.)",
+
+        "space" : "Espace",
+        
+        "connecting_to_server" : "Connection au Serveur...",
+        "creating_room" : "Création d'une Brigade...",
+        "joining_room" : "Rejointe d'une Brigade...",
+        "disconnect" : "Se déconnecter",
+
+        "return_to_main_menu" : "Retourner à l'Écran-Titre",
+
+        "error_connecting" : "Impossible de se connecter au serveur. Vérifiez votre connection Internet et réésayez.",
+
+        "error_joining_room" : "Erreur lors de la rejointe de la Brigade {0} - {1}",
+        "error_creating_room" : "Erreur lors de la création de la Brigade {0} - {1}",
+
+        "confirm_disconnect" : "Êtes-vous sur de vouloir vous déconnecter de cette Brigade ?",
+        "yes" : "Ouais!",
+        "no" : "Nan.",
+
+        "resume" : "Continuer",
+        "leave_mission" : "Quitter la Mission",
+
+        "player_joined" : "a rejoint!",
+        "player_left" : "a quitté!",
+
+
+        "project_lead" : "Chef de Projet",
+        "programming" : "Programmation",
+        "tool_programming" : "Programmation des Outils",
+        "3d_graphics" : "Graphismes 3D",
+        "2d_graphics" : "Graphismes 2D",
+        "user_interface" : "Design & Programmation des Interfaces",
+        "music_sfx" : "Musiques et Audio",
+        "int_playtesting" : "Tests Internes",
+        "ext_playtesting" : "Tests Externes",
+        "spanish_localization" : "Traduction Espagnole",
+        "german_localization" : "Traduction Allemande",
+        "polish_localization" : "Traduction Polonaise",
+        "french_localization" : "Traduction Française",
+        "special_thanks" : "Remerciements Spéciaux"
+    }
+}
