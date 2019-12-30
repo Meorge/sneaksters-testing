@@ -116,10 +116,10 @@
 		"ext_playtesting": "Pruebas externas",
 		"spanish_localization": "Localización a español",
 		"german_localization": "Localización a alemán",
-        "polish_localization" : "Localización a polaca",
-        "french_localization" : "Localización a francesa",
-		"korean_localization" : "Localización a coreana",
-		"japanese_localization" : "Localización a japonesa",
+        	"polish_localization" : "Localización a polaco",
+        	"french_localization" : "Localización a francés",
+		"korean_localization" : "Localización a coreano",
+		"japanese_localization" : "Localización a japonés",
 		"special_thanks": "Agradecimientos especiales"
 	}
 }
