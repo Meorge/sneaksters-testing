@@ -118,7 +118,8 @@
 		"german_localization": "Deutsche Übersetzung",
         "polish_localization" : "Polnische Übersetzung",
         "french_localization" : "Französische Übersetzung",
-        "korean_localization" : "Koreanische Übersetzung",
+		"korean_localization" : "Koreanische Übersetzung",
+		"japanese_localization" : "Japanische Übersetzung",
 		"special_thanks": "Spezielles Dankeschön"
 	}
 }

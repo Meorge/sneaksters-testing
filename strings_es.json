@@ -118,7 +118,8 @@
 		"german_localization": "Localización a alemán",
         "polish_localization" : "Localización a polaca",
         "french_localization" : "Localización a francesa",
-        "korean_localization" : "Localización a coreana",
+		"korean_localization" : "Localización a coreana",
+		"japanese_localization" : "Localización a japonesa",
 		"special_thanks": "Agradecimientos especiales"
 	}
 }
