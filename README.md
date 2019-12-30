@@ -32,6 +32,8 @@ So far, _Sneaksters_ has been translated into the following languages, in additi
 - Spanish by patataofcourse and Malcolm Anderson
 - German by Aaron Dewes
 - Polish by NokNokShell
+- French by RedStoneMatt
+- Korean by brickblock369
 
 ### Contribute translations
 Are you fluent in a language other than English? If so, we'd appreciate your help with translating _Sneaksters_! To get started, fork this repository using the "Fork" button in the top right corner, create a copy of `strings_en.json` with the [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language, and start translating the file! Don't forget to credit yourself in the `"notes"` section of the JSON file.
@@ -52,6 +54,8 @@ Sorry about that! You can turn the music and SFX volumes down in Settings -> Sou
 
 You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. The game _should_ resize itself upon first bootup in order to fit your monitor screen, so please let us know if it does not. 
 
+**My antivirus software is deleting Sneaksters!**
+Unfortunately, I don't think this is something we can really fix on our end. My understanding is that we would have to pay to get "whitelisted" on antivirus software. Hopefully when the full game is released we'll be able to do this, but until then you'll have to manually whitelist it (via turning off your antivirus or telling it that *Sneaksters* is okay). If you feel unsafe about doing this, you can feel free to talk to others on the [official *Sneaksters* Discord server](https://discord.gg/hJnCfnX) about it.
 
 **Will I get anything for playtesting?**
 
