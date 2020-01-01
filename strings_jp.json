@@ -1,0 +1,159 @@
+{
+    "language" : "jp",
+    "notes" : "Translation by Meatball132",
+    "strings" : {
+        "verifying" : "Verifying...",
+        "build_expired" : "このSneakstersのビルドは{0}日前に期限切れになりました。",
+        "press_any_button" : "Press Any Button",
+        "made_by" : "©️2019 Zenith Point",
+        "photon" : "Powered by Photon PUN by Exit Games",
+
+        "create_a_room" : "分隊を結成",
+        "join_a_room" : "既存のチームに参加する",
+
+        "play_online" : "オンラインでプレイ",
+        "play_online_desc" : "他の人とのミッションに乗り出します。",
+        "play_offline" : "オフラインでプレイ",
+        "play_offline_desc" : "自分で任務を遂行してください。",
+
+        "gem_heist" : "宝石強盗",
+        "gem_heist_desc" : "協力してすべての宝石を盗み、逃げましょう！",
+        "hide_and_seek" : "かくれんぼ",
+        "hide_and_seek_desc" : "シーカーに逮捕されないようにしてください！",
+
+        "create_a_room_desc" : "他のプレイヤーが参加するためのオンラインチームを編成します。",
+        "join_a_room_desc" : "4文字のコードを使用してオンラインチームに参加します。",
+        "customize_desc" : "スキルをアップグレードするには、帽子を購入して移すください。",
+        "settings_desc" : "ゲーム設定を構成します。",
+        
+
+        "settings" : "設定",
+        "online_settings" : "オンライン設定",
+        "control_settings" : " コントローラー ",
+        "resolution_settings" : "グラフィックス",
+        "accessibility_settings" : "Accessibility",
+        "audio_settings" : "オーディオ",
+        "language_settings" : "言語",
+        "credit_settings" : "エンドロール",
+        "discord_rich_presence" : "Discord Rich Presence",
+        "discord_rich_presence_description" : "Discordユーザーは、現在のゲームセッションに関する情報を表示できます。",
+
+        "twitch_stream_integration" : "Twitch Stream Integration",
+        "online_settings_server" : "サーバ",
+        "online_settings_server_description" : "友達とプレイするには同じサーバーに接続する必要があります。",
+
+        "online_settings_hidecode" : "分隊コードを隠す",
+        "online_settings_hidecode_description" : "デフォルトでチームコードを非表示にします。 このオプションはストリーマー用であるため、人々が一度にチームに参加することはありません。",
+        "customize_controls" : "コントローラーのカスタマイズ",
+        "invert_y_mouselook" : "Y軸を反転",
+        "invert_y_mouselook_description" : "このオプションを有効にすると、マウスまたはコントロールスティックを前方に移動して下に、後方に移動して見上げることができます。",
+        "qualitylevel" : "グラフィックスレベル",
+        "qualitylevel_description" : "設定を高くすると見栄えは良くなりますが、性能の悪いコンピューターではパフォーマンスが低下します。",
+        "resolution" : "解像度",
+        "resolution_description" : "ゲームウィンドウのサイズを調整する。",
+        "full_screen" : "フルスクリーン",
+        "full_screen_description" : "このオプションにより、ゲームがコンピューターのモニターをいっぱいにします。",
+        "music_vol" : "BGMボリューム",
+        "music_vol_description" : "音楽の音量を変更する。",
+        "sfx_vol" : "音ボリューム",
+        "sfx_vol_description" : "ビデオゲームの効果音の音量を変更する。",
+
+        "customize" : "カスタマイズ",
+        "my_sneak_id" : "キャラ",
+        "playerhat" : "帽子",
+        "hat_select" : "私の帽子",
+        "playercolor" : "色",
+        "thiefmart" : "悪マート",
+        "name" : "ユーザー名",
+        "placeholder_player_name" : "ステルスマン",
+
+        "enter_room_code" : "分隊コードを入力してください！",
+        "room_code_explanation" : "分隊コードは、A-Z半角英文字で構成されています。",
+        "connect" : "Connect",
+        "back_button" : "Back",
+        "quit_button" : "終わり",
+
+        "choose_job" : "Choose a Job!",
+        "computer_desc" : "<color=white>ドアをハックし、</color>ハッカー<color=white>として警備員について泥棒に警告すください！</color>",
+        "thief_desc" : "<color=purple>泥棒</color>として、ハッカーの助けを借りて宝石を盗みながら捕まらないようにしてください！",
+        "join_as_computer" : "ハッカー",
+        "join_as_thief" : "泥棒",
+        "toggle" : "トグル",
+        "room_code" : "分隊コード",
+        "players_connected" : "分隊メンバー",
+        "leader" : "ホスト",
+        "waiting" : "Waiting...",
+        "ready" : "Ready!",
+        "no_more_space" : "No more space!",
+        "computer_job" : "ハッカー",
+        "thief_job" : "泥棒",
+        "head_out" : "Move Out!",
+        "confirm_ready" : "I'm Ready!",
+        "confirm_ready_header" : "We've Got a Mission!",
+        "waiting_on_host" : "Waiting on Host...",
+        "choose_mission" : "Choose a Mission",
+        "game_begins_in" : "Moving out in",
+
+        "mission_no" : "Mission {0}",
+
+        "thieves_remaining" : "Thieves\u000A\u0020\u0020\u0020\u0020\u0020\u0020Remaining",
+        "gemstones_collected" : "Gemstones\u000A\u0020\u0020\u0020\u0020\u0020\u0020Collected",
+
+        "captured_top" : "You've Been",
+        "captured_bottom" : "Captured!",
+
+        "busted" : "Busted!",
+        "busted_squad_lasted" : "Your Team Lasted {0}:{1}",
+
+        "head_for_exit" : "Head for the exit!",
+
+        "walk" : "Walk",
+        "sprint" : "Run",
+        "look_around" : "Look Around",
+        "space_key" : "Space",
+        "to_drop_gem" : "to Drop Gemstone",
+        "move_faster_without_gem" : "(何も運んでいない場合は、より速く移動できます。)",
+
+        "space" : "Space",
+        
+        "connecting_to_server" : "Connecting...",
+        "creating_room" : "Loading...",
+        "joining_room" : "Loading...",
+        "disconnect" : "Disconnect",
+
+        "return_to_main_menu" : "Return to Main Menu",
+
+        "error_connecting" : "エラー！サーバーに到達できませんでした。インターネット接続を確認してください。",
+
+        "error_joining_room" : "Error joining room {0} - {1}",
+        "error_creating_room" : "Error creating room {0} - {1}",
+
+        "confirm_disconnect" : "本当に去りますか？",
+        "yes" : "はい",
+        "no" : "いいえ",
+
+        "resume" : "つづく",
+        "leave_mission" : "終わり",
+
+        "player_joined" : "joined!",
+        "player_left" : "left!",
+
+
+        "project_lead" : "Project Lead",
+        "programming" : "Programming",
+        "tool_programming" : "Tools Programming",
+        "3d_graphics" : "3D Graphics",
+        "2d_graphics" : "2D Graphics",
+        "user_interface" : "UI Design & Programming",
+        "music_sfx" : "Music and Audio",
+        "int_playtesting" : "Internal Playtesting",
+        "ext_playtesting" : "External Playtesting",
+        "spanish_localization" : "Spanish Localization",
+        "german_localization" : "German Localization",
+        "polish_localization" : "Polish Localization",
+        "french_localization" : "French Localization",
+        "korean_localization" : "Korean Localization",
+        "japanese_localization" : "Japanese Localization",
+        "special_thanks" : "Special Thanks"
+    }
+}
