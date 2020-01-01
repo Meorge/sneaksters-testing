@@ -78,7 +78,7 @@
         "thief_desc" : "<color=purple>도둑</color>이 되어 공중의 눈의 도움을 받아 보석을 훔치세요 !",
         "join_as_computer" : "눈",
         "join_as_thief" : "도둑",
-        "toggle" : "보이기/",
+        "toggle" : "보이기/숨기기",
         "room_code" : "분대 코드",
         "players_connected" : "분대원",
         "leader" : "분대장",
