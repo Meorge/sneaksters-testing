@@ -42,24 +42,20 @@ Are you fluent in a language other than English? If so, we'd appreciate your hel
 Once you're done translating, submit a pull request and it should be added to the game shortly, with your name in the credits.
 
 ## FAQs
-**Gah! There are so many bugs!**
-
+### Gah! There are so many bugs!
 That's why it's a pre-alpha and not a finished game! The purpose of the pre-alpha is to crowd-source bug testing so that we can get the game running nicely as soon as possible. If you find any bugs, please report them as described above.
 
-**Ahhh! The music is so loud!**
-
+### Ahhh! The music is so loud!
 Sorry about that! You can turn the music and SFX volumes down in Settings -> Sounds & Audio, from the main menu.
 
 
-**The game's window is too big for my monitor!**
-
+### The game's window is too big for my monitor!
 You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. The game _should_ resize itself upon first bootup in order to fit your monitor screen, so please let us know if it does not. 
 
-**My antivirus software is deleting Sneaksters!**
+### My antivirus software is deleting Sneaksters!
 Unfortunately, I don't think this is something we can really fix on our end. My understanding is that we would have to pay to get "whitelisted" on antivirus software. Hopefully when the full game is released we'll be able to do this, but until then you'll have to manually whitelist it (via turning off your antivirus or telling it that *Sneaksters* is okay). If you feel unsafe about doing this, you can feel free to talk to others on the [official *Sneaksters* Discord server](https://discord.gg/hJnCfnX) about it.
 
-**Will I get anything for playtesting?**
-
+### Will I get anything for playtesting?
 Since this is a public pre-alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
 
  Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. By participating in the pre-alpha, your name will also be included in the credits under "External Playtesting". (If you would prefer to have your name _not_ be in the credits, just let us know.)
