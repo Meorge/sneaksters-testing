@@ -11,9 +11,9 @@
         "create_a_room" : "분대 만들기",
         "join_a_room" : "분대 들어가기",
 
-        "play_online" : "온라인 비밀 작전",
+        "play_online" : "온라인으로 임무 실행",
         "play_online_desc" : "다른 사람들과 같이 임무를 실행합니다.",
-        "play_offline" : "혼자서 비밀 작전",
+        "play_offline" : "혼자서 임무 실행",
         "play_offline_desc" : "혼자서 임무를 실행합니다.",
 
         "gem_heist" : "보석 탈취",
@@ -43,12 +43,12 @@
         "online_settings_server_description" : "다른 사람들과 같은 서버로 연결되어야 같이 플레이 가능합니다.",
 
         "online_settings_hidecode" : "분대 코드 숨기기",
-        "online_settings_hidecode_description" : "분대 코드를 기본적으로 숨깁니다. 너무 많은 사람들이 들어올 확률을 줄일 수 있습니다.",
+        "online_settings_hidecode_description" : "분대 코드를 기본적으로 숨깁니다. 너무 많은 사람들이 들어오지 않게 할 수 있습니다.",
         "customize_controls" : "컨트롤 바꾸기",
-        "invert_y_mouselook" : "마우스 Y 축 바꿈",
+        "invert_y_mouselook" : "마우스 Y 축 바꾸기",
         "invert_y_mouselook_description" : "활성화될 때 마우스를 위로 움직이시면 시각 방향이 위 대신 아래로 향합니다.",
         "qualitylevel" : "화질",
-        "qualitylevel_description" : "더 높은 화질은 더 깔끔히 보이지만, CPU를 더 집요하게 사용합니다.",
+        "qualitylevel_description" : "더 높은 화질은 모니터에 더 깔끔히 보이지만, CPU를 더 집요하게 사용합니다.",
         "resolution" : "해상도",
         "resolution_description" : "Sneaksters 게임 창 크기를 맞춥니다.",
         "full_screen" : "전체화면",
@@ -58,7 +58,7 @@
         "sfx_vol" : "효과음 볼륨",
         "sfx_vol_description" : "게임에 재생되는 효과음 볼륨을 조정합니다.",
 
-        "customize" : "설정",
+        "customize" : "플레이어 설정",
         "my_sneak_id" : "ID",
         "playerhat" : "모자",
         "hat_select" : "모자 설정하기",
@@ -76,9 +76,9 @@
         "choose_job" : "역할을 선택하세요 !",
         "computer_desc" : "공중의 눈<color=white>이 되어 문을 해킹하고 도둑들에게 신호를 보내세요 !</color>",
         "thief_desc" : "<color=purple>도둑</color>이 되어 공중의 눈의 도움을 받아 보석을 훔치세요 !",
-        "join_as_computer" : "공중의 눈",
+        "join_as_computer" : "눈",
         "join_as_thief" : "도둑",
-        "toggle" : "바꾸기",
+        "toggle" : "보이기/숨기기",
         "room_code" : "분대 코드",
         "players_connected" : "분대원",
         "leader" : "분대장",
@@ -154,6 +154,6 @@
         "french_localization" : "프랑스어 번역",
         "korean_localization" : "한국어 번역",
         "japanese_localization" : "일본어 번역",
-        "special_thanks" : "그 외 감사하는 분들"
+        "special_thanks" : "그 외 감사드리는 분들"
     }
 }
