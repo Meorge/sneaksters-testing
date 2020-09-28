@@ -48,9 +48,11 @@ That's why it's a pre-alpha and not a finished game! The purpose of the pre-alph
 ### Ahhh! The music is so loud!
 Sorry about that! You can turn the music and SFX volumes down in Settings -> Sounds & Audio, from the main menu.
 
-
 ### The game's window is too big for my monitor!
 You can adjust the screen resolution in Settings -> Resolution & Quality, from the main menu. The game _should_ resize itself upon first bootup in order to fit your monitor screen, so please let us know if it does not. 
+
+### Where are the credits? They used to be in Settings, but now they're gone!
+The way I had implemented the credits seemed to be causing lots of issues, and it was always meant to be a temporary fix for until I could create a "true" credits sequence, so I decided to remove it from the game. The game's credits are listed in this document for now.
 
 ### My antivirus software is deleting Sneaksters!
 Unfortunately, I don't think this is something we can really fix on our end. My understanding is that we would have to pay to get "whitelisted" on antivirus software. Hopefully when the full game is released we'll be able to do this, but until then you'll have to manually whitelist it (via turning off your antivirus or telling it that *Sneaksters* is okay). If you feel unsafe about doing this, you can feel free to talk to others on the [official *Sneaksters* Discord server](https://discord.gg/hJnCfnX) about it.
@@ -58,4 +60,104 @@ Unfortunately, I don't think this is something we can really fix on our end. My 
 ### Will I get anything for playtesting?
 Since this is a public pre-alpha, **we aren't planning on any monetary compensation for playtesters**. In fact, **no members of the Zenith Point team are expecting to receive any money from the project** - the hope is to use any money we make from Sneaksters to 1) keep servers maintained and 2) start putting money into a savings fund for future projects.
 
- Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. By participating in the pre-alpha, your name will also be included in the credits under "External Playtesting". (If you would prefer to have your name _not_ be in the credits, just let us know.)
+ Playtesters *may* get some benefits when the game comes out, like a free/discounted copy and/or exclusive extras. By participating in the pre-alpha, your name can also be included in the credits under "External Playtesting". (If you would prefer to have your name _not_ be in the credits, just let us know.)
+
+## Credits
+### Project Lead
+- Malcolm Anderson
+
+### Programming
+- Malcolm Anderson
+
+### Tool Programming
+- Malcolm Anderson
+- J'Chol
+- RoadrunnerWMC
+
+### 3D Graphics
+- Corban N.
+- jamble
+- Malcolm Anderson
+
+
+### 2D Graphics
+- Malcolm Anderson
+
+### User Interface
+- Malcolm Anderson
+
+### Music and Sound Effects
+- AM4
+- brickblock369
+- Meatball132
+
+### Internal Playtesting
+- brickblock369
+- grishhung
+- Jaden Beity
+- jamble
+- Malcolm Anderson
+- Meatball132
+- naknow
+- Tony Maniscalco
+
+### External Playtesting
+- Blendy
+- DreamSeeker32
+- Hayden
+- Icarus
+- LimeSlime
+- MasterVermilli0n
+- NokNokShell
+- ProfElements
+- Professional Gopnik
+- RedStoneMatt
+- Sapphire_Ruby
+- Stink
+- Thomas Dowding
+- TriangularFish
+- aleok
+- hus
+- kysonati
+- patataofcourse
+
+
+### Localizations/Translations
+#### Spanish
+- AM4
+- Malcolm Anderson
+- patataofcourse
+
+#### German
+- Aaron Dewes
+
+#### Polish
+- NokNokShell
+
+#### French
+- RedStoneMatt
+
+#### Korean
+- brickblock369
+
+#### Japanese
+- Meatball132
+
+### Fonts
+- Licensed under SIL Open Font License
+  - Do Hyeon
+  - Roboto
+  - Viga
+- Licensed under M+ License
+  - Ranobe POP
+  
+### Third-Party Assets
+- [FMOD](https://fmod.com)
+- [Photon PUN](https://www.photonengine.com/en-US/PUN)
+- [Shapes](https://acegikmo.com/shapes/)
+
+### Special Thanks
+- Acegikmo Discord Server
+- [Game Dev Friends](https://gamedevfriends.com)
+- Skawo Discord Server
+- SneakHub Discord Server
