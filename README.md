@@ -152,6 +152,7 @@ Since this is a public pre-alpha, **we aren't planning on any monetary compensat
   - Ranobe POP
   
 ### Third-Party Assets
+- [DOTween](http://dotween.demigiant.com)
 - [FMOD](https://fmod.com)
 - [Photon PUN](https://www.photonengine.com/en-US/PUN)
 - [Shapes](https://acegikmo.com/shapes/)
