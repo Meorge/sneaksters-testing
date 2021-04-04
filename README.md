@@ -114,7 +114,7 @@ Since this is a public pre-alpha, **we aren't planning on any monetary compensat
 - RedStoneMatt
 - Sapphire_Ruby
 - Stink
-- Thomas Dowding
+- ZeldaPlayer29
 - TriangularFish
 - aleok
 - hus
